@@ -54,10 +54,6 @@ ReservedWalkieSlot
 - 1.5.4
 - https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/
 
-ShipClock
-- 0.9.0
-- https://thunderstore.io/c/lethal-company/p/ATK/ShipClock/
-
 ShipLoot
 - 1.0.0
 - https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/
