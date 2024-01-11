@@ -2,6 +2,14 @@ LC_API
 - 3.3.2
 - https://thunderstore.io/c/lethal-company/p/2018/LC_API/
 
+HookGenPatcher
+- 0.0.5
+- https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+
+LethalLib
+- 0.11.1
+- https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+
 AlwaysHearWalkies
 - 1.4.4
 - https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/versions/

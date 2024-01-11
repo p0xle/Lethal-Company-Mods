@@ -13,3 +13,8 @@ Contains fun visual and sound mods
 
 ## Monster
 Contains mods introducing new monsters
+
+## HookGenPatcher
+Generates files on startup that are needed by other mods.
+
+Copy the included folders directly into "Lethal Company\BepInEx", not the plugins folder!
