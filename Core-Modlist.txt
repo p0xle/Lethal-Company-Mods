@@ -1,0 +1,47 @@
+LC_API
+- 3.3.2
+- https://thunderstore.io/c/lethal-company/p/2018/LC_API/
+
+AlwaysHearWalkies
+- 1.4.4
+- https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/versions/
+
+HelmetCamera
+- 2.1.5
+- https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/
+
+LateCompany
+- 1.0.10
+- https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/
+
+LethalCompanyInputUtils
+- 0.4.4
+- https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
+
+MoreCompany
+- 1.7.4
+- https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
+
+QuickRestart
+- 1.2.0
+- https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/
+
+ReservedItemSlotCore
+- 1.8.6
+- https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
+
+ReservedFlashlightSlot
+- 1.5.8
+- https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
+
+ReservedWalkieSlot
+- 1.5.4
+- https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/
+
+ShipClock
+- 0.9.0
+- https://thunderstore.io/c/lethal-company/p/ATK/ShipClock/
+
+ShipLoot
+- 1.0.0
+- https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/
