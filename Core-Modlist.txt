@@ -30,6 +30,10 @@ MoreCompany
 - 1.7.4
 - https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/
 
+MoreItems
+- 1.0.2
+- https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/
+
 QuickRestart
 - 1.2.0
 - https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/
