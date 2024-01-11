@@ -14,6 +14,9 @@ Contains fun visual and sound mods
 ## Monster
 Contains mods introducing new monsters
 
+## Items
+Contains mods introducing new items and mechanics
+
 ## HookGenPatcher
 Generates files on startup that are needed by other mods.
 
