@@ -6,3 +6,10 @@
 2. Move wanted Mods into "Lethal Company\BepInEx\plugins"
 
 ## Core
+Contains API mods needed by other mods as well as common utility mods
+
+## Fun
+Contains fun visual and sound mods
+
+## Monster
+Contains mods introducing new monsters
