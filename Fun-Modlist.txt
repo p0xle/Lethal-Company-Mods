@@ -9,3 +9,7 @@ MoreSuits
 Yippee
 - 1.2.3
 - https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/versions/
+
+Coroner
+- 1.5.3
+- https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/
