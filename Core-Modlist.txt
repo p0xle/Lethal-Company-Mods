@@ -34,6 +34,10 @@ MoreItems
 - 1.0.2
 - https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/
 
+RuntimeNetcodePatcher
+- 0.2.5
+- https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/
+
 QuickRestart
 - 1.2.0
 - https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/
