@@ -51,7 +51,7 @@ ReservedFlashlightSlot
 - https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
 
 ReservedWalkieSlot
-- 1.5.4
+- 1.5.5
 - https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/
 
 ShipLoot
