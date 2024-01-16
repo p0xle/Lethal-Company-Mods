@@ -59,3 +59,7 @@ ReservedWalkieSlot
 ShipLoot
 - 1.0.0
 - https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/
+
+TerminalApi
+- 1.5.0
+- https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/
