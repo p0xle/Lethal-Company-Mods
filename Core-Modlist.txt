@@ -47,7 +47,7 @@ ReservedItemSlotCore
 - https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
 
 ReservedFlashlightSlot
-- 1.5.8
+- 1.5.10
 - https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
 
 ReservedWalkieSlot
