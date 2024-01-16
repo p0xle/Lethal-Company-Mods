@@ -67,3 +67,10 @@ TerminalApi
 TimeCommand
 - 1.1.0
 - https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TimeCommand/
+
+LethalAutocomplete
+- 0.4.1
+- https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/
+- depends on:
+    - TerminalApi
+    - LethalCompanyInputUtils
