@@ -43,7 +43,7 @@ QuickRestart
 - https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/
 
 ReservedItemSlotCore
-- 1.8.6
+- 1.8.11
 - https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
 
 ReservedFlashlightSlot
