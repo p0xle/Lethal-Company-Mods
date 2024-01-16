@@ -1,5 +1,5 @@
 MoreEmotes
-- 1.3.2
+- 1.3.3
 - https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
 
 MoreSuits
