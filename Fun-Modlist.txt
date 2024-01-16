@@ -1,14 +1,16 @@
 MoreEmotes
 - 1.3.3
 - https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
+- depends on:
+    - Core:RuntimeNetcodePatcher
 
 MoreSuits
 - 1.4.1
-- https://thunderstore.io/c/lethal-company/p/x753/More_Suits/versions/
+- https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
 
 Yippee
 - 1.2.3
-- https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/versions/
+- https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/
 
 Coroner
 - 1.5.3

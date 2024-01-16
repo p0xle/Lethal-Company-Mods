@@ -9,6 +9,8 @@ HookGenPatcher
 LethalLib
 - 0.11.1
 - https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+- depends on:
+    - HookGenPatcher
 
 AlwaysHearWalkies
 - 1.4.4
@@ -49,10 +51,14 @@ ReservedItemSlotCore
 ReservedFlashlightSlot
 - 1.5.10
 - https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
+- depends on:
+    - ReservedItemSlotCore
 
 ReservedWalkieSlot
 - 1.5.5
 - https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/
+- depends on:
+    - ReservedItemSlotCore
 
 ShipLoot
 - 1.0.0
