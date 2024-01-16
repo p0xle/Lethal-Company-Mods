@@ -76,3 +76,7 @@ LethalAutocomplete
 - depends on:
     - TerminalApi
     - LethalCompanyInputUtils
+
+HideChat
+- 1.0.0
+- https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat/
