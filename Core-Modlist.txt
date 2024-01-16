@@ -63,3 +63,7 @@ ShipLoot
 TerminalApi
 - 1.5.0
 - https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/
+
+TimeCommand
+- 1.1.0
+- https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TimeCommand/
